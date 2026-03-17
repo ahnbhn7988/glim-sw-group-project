@@ -1,0 +1,16 @@
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.pch
+*.exe
+*.log
+*.tlog
+*.idb
+*.ilk
+*.pdb
+*.aps
+*.ncb
+*.sdf
+*.opensdf
