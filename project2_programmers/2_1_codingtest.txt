@@ -1,0 +1,11 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int solution(int n, int k) {
+    int sv = n / 10;
+    int res = n * 12000 + (k - sv) * 2000;
+    return res;
+}
+
